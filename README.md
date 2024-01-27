@@ -1,2 +1,2 @@
-#openai-chat
+# openai-chat
 openAIのAPIのチュートリアル
